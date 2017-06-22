@@ -1,0 +1,87 @@
+#mancala_bord {
+	height: 300px;
+	width: 900px;
+	background-color: #efc28b;
+	border-radius: 40px;
+	overflow: hidden;
+}
+
+.bakje_speler1 {
+	height: 80px;
+	width: 80px;
+	border-radius: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #bf9b6f;
+	height: 80px;
+	width: 80px;
+}	
+
+.bakje_speler2 {
+	height: 80px;
+	width: 80px;
+	border-radius: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #D2B99A;
+	height: 80px;
+	width: 80px;
+}	
+
+p {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.naam_speler {
+	font-size: 17px;
+}
+
+#invulling_bord {
+	margin: 20px;
+}
+
+.mancala_borddeel {
+	text-align: center;
+}
+
+#kalaha_speler1 {
+	height: 250px;
+	width: 80px;
+	background-color: #bf9b6f;
+	float: right;
+	border-radius: 80px;
+}
+
+#num_kalaha_speler1 {
+	height: 100%;
+	line-height: 180px;
+}
+
+#kalaha_speler2 {
+	height: 250px;
+	width: 80px;
+	background-color: #D2B99A;
+	float: left;
+	border-radius: 80px;
+}
+
+#num_kalaha_speler2 {
+	height: 100%;
+	line-height: 180px;
+}
+
+#kleine_bakjes {
+	margin: 0 auto;
+}
+
+#boodschapNaarGebruiker {
+	font-family: sans-serif;	
+}
+
+#knopNieuwSpel {
+	height: 50px;
+	width: 150px;
+	border-radius: 5px;
+}
